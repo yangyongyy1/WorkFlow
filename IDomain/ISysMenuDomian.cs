@@ -7,6 +7,6 @@ namespace IDomain
     public interface ISysMenuDomian
     {
         SysMenu GetModal(string id);
-        void UpdateModal(SysMenu entity);
+        
     }
 }

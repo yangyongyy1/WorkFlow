@@ -17,10 +17,5 @@ namespace Domain
         {
             return _SysmenuRepositore.GetModel(id);
         }
-
-        public void UpdateModal(Entitys.SysMenu entity)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
